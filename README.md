@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/bruno-lessa-896b0b1ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
-  ![Snake animation](https://github.com/zedaoxd/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://https://github.com/zedaoxd/zedaoxd/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 <!--
